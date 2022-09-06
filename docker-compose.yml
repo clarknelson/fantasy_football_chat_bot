@@ -11,9 +11,9 @@ services:
       #Webhook URL from the Slack App page (REQUIRED IF USING SLACK)
       SLACK_WEBHOOK_URL: "1"
       #This is your Webhook URL from the Discord Settings page (REQUIRED IF USING DISCORD)
-      DISCORD_WEBHOOK_URL: "1"
+      DISCORD_WEBHOOK_URL: "https://discord.com/api/webhooks/1016748097688305664/cgtPDmHiKkA7328Ri1JFj9TfXL4hq7142bvEbI7uAyIZskkOsX2XtF8XQWM4bRIr4Nov"
       #ESPN league id (REQUIRED)
-      LEAGUE_ID:
+      LEAGUE_ID: 599266232
       # #When the bot will start paying attention and sending messages to your chat.
       # START_DATE:
       # #When the bot will stop paying attention and stop sending messages to your chat.
